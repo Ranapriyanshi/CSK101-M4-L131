@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+.flex{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+.todoh3{
+  width: fit-content;
+
+}
+.cards{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
